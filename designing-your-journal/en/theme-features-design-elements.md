@@ -13,7 +13,7 @@ In OJS you can use special plugins to add custom blocks to your site, including 
 
 The below tables can be used when selecting a theme based on the features and design elements available with each. The three tables compare image settings, colour and font options, and other features for 6 major themes available in OJS. 
 
-Unique features relevant to specific themes are linked from the table which correspond to detailed explanations below.
+Unique features relevant to specific themes are linked from the table to detailed explanations below.
 
 Click on the name of each theme in the table headers to see a sample journal using each theme.
 
@@ -24,7 +24,7 @@ This table compares image settings between the various themes, including the way
 
 | Features                                                                             	| [Default Theme](https://demo.publicknowledgeproject.org/ojs3/demo/index.php/demojournal/index) 	| [Pragma](https://demo.publicknowledgeproject.org/ojs3/demo/index.php/pragma/index)       	| [Manuscript](https://demo.publicknowledgeproject.org/ojs3/demo/index.php/manuscript/index)   	| [Health Science](https://demo.publicknowledgeproject.org/ojs3/demo/index.php/health-sciences/index) 	| [Immersion](https://demo.publicknowledgeproject.org/ojs3/demo/index.php/immersion/index)     	| [Classic](https://demo.publicknowledgeproject.org/ojs3/demo/index.php/classic/index)      	|
 |------------------------------------------------------------------------------	|---------------	|--------------	|--------------	|-----------------	|---------------	|--------------	|
-| Journal Logo placement                                                       	| Left aligned  	| Left aligned 	| Left aligned 	| Centred         	| [Centred](./theme-features-design-elements.md#logos)      	| Left aligned 	|
+| Journal Logo placement                                                       	| Left aligned  	| Left aligned 	| Left aligned 	| Centred         	| Centred ([See more](./theme-features-design-elements.md#logos))      	| Left aligned 	|
 | Homepage image                                                               	| Yes           	| Yes ([See more](./theme-features-design-elements.md#homepage-image))        	| Yes          	| Yes             	| Yes           	| Yes          	|
 | Homepage image as Header Background                                          	| Optional      	| No           	| No           	| No              	| Yes (Default) 	| No           	|
 | Issue Cover image on homepage                                                	| Yes           	| No           	| Yes          	| Yes             	| Yes           	| Yes          	|
@@ -54,7 +54,7 @@ This table compares display settings between the various themes, including how j
 | Journal summary on homepage 	 | Optional        		 | Yes                     		 | Optional        		 | Yes        		 | Optional (setting is called “Show journal description”)     | Optional ([See more](./theme-features-design-elements.md#displaying-the-journal-summary-on-the-homepage))     |
 | Placement of sidebar blocks 	 | Sidebar         		 | Footer                  		 | Sidebar         		 | Footer     		 | Footer                                             		 | Footer   	 |
 | Author Affiliation      		 | Displayed by default     | Togglable               		 | Displayed by default     | Togglable  		 | Togglable                                          		 | Togglable     |
-| Other features          		 |                 		 | Monochromatic homepage image     |                 		 |            		 | [Colour-blocking](./theme-features-design-elements.md#color-blocking), Show section description             		 |      		 |
+| Other features          		 |                 		 | [Monochromatic homepage image](./theme-features-design-elements.md#homepage-image)     |                 		 |            		 | [Colour-blocking](./theme-features-design-elements.md#colour-blocking), Show section description             		 |      		 |
 | Accessible*             		 | Yes             		 | Untested                		 | Untested        		 | Untested   		 | Untested                                           		 | Untested 	 |
 
 ## Unique features to be aware of for specific themes
